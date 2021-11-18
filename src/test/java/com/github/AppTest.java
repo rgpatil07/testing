@@ -27,6 +27,7 @@ public class AppTest
 
     /**
      * @return the suite of tests being tested
+	new testng 
      */
     public static Test suite()
     {

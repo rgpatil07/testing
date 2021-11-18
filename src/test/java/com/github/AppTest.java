@@ -18,7 +18,7 @@ public class AppTest
     /**
      * Create the test case
      *
-     * @param testName name of the test case
+     * @param testName name of the test case how to solve conflicts
      */
     public AppTest( String testName )
     {
